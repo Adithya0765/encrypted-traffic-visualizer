@@ -1,0 +1,31 @@
+.root {
+    -fx-base: #1e1e1e;
+    -fx-background-color: #1e1e1e;
+    -fx-control-inner-background: #2b2b2b;
+    -fx-text-fill: #e0e0e0;
+    -fx-font-size: 13px;
+}
+
+.table-view {
+    -fx-background-color: #1e1e1e;
+}
+
+.table-row-cell {
+    -fx-background-color: #2b2b2b;
+    -fx-text-fill: #e0e0e0;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #3a3a3a;
+    -fx-text-fill: #ffffff;
+}
+
+.column-header-background {
+    -fx-background-color: #2b2b2b;
+}
+
+.table-view .column-header,
+.table-view .column-header .label {
+    -fx-background-color: #2b2b2b;
+    -fx-text-fill: #c8c8c8;
+}
