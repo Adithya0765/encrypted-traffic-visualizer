@@ -121,7 +121,6 @@ mvn javafx:run
 ```
 
 ## 📊 Output Columns Explained
-|Column|Meaning|
 | Column          | Meaning                  |
 | --------------- | ------------------------ |
 | **Destination** | Destination IP           |
